@@ -1,0 +1,69 @@
+1. Crear mínimo cinco productos
+Producto creado exitosamente con id 1.
+Producto creado exitosamente con id 2.
+Producto creado exitosamente con id 3.
+Producto creado exitosamente con id 4.
+Producto creado exitosamente con id 5.
+
+2. Consultar un producto por identificador
+{'cantidad': 5,
+ 'categoria': 'Tecnología',
+ 'id': 1,
+ 'nombre': 'Laptop Lenovo ThinkPad',
+ 'precio': 2500000.0}
+
+3. Actualizar la cantidad de un producto
+Producto actualizado correctamente.
+{'cantidad': 25,
+ 'categoria': 'Accesorios',
+ 'id': 2,
+ 'nombre': 'Mouse inalámbrico',
+ 'precio': 45000.0}
+
+4. Eliminar un producto
+Producto eliminado correctamente.
+
+5. Listar todos los productos registrados
+[{'cantidad': 5,
+  'categoria': 'Tecnología',
+  'id': 1,
+  'nombre': 'Laptop Lenovo ThinkPad',
+  'precio': 2500000.0},
+ {'cantidad': 25,
+  'categoria': 'Accesorios',
+  'id': 2,
+  'nombre': 'Mouse inalámbrico',
+  'precio': 45000.0},
+ {'cantidad': 3,
+  'categoria': 'Tecnología',
+  'id': 4,
+  'nombre': 'Monitor 24 pulgadas',
+  'precio': 850000.0},
+ {'cantidad': 0,
+  'categoria': 'Cables',
+  'id': 5,
+  'nombre': 'Cable HDMI',
+  'precio': 30000.0}]
+
+6. Calcular el valor total del inventario
+{'valor_total_inventario': 16175000.0}
+
+7. Consultar productos agotados
+[{'cantidad': 0,
+  'categoria': 'Cables',
+  'id': 5,
+  'nombre': 'Cable HDMI',
+  'precio': 30000.0}]
+
+8. Identificar el producto más costoso
+{'cantidad': 5,
+ 'categoria': 'Tecnología',
+ 'id': 1,
+ 'nombre': 'Laptop Lenovo ThinkPad',
+ 'precio': 2500000.0}
+
+9. Consultar estadísticas generales del inventario
+{'promedio_cantidad': 8.25,
+ 'promedio_precio': 856250.0,
+ 'total_productos': 4,
+ 'valor_total': 16175000.0}
