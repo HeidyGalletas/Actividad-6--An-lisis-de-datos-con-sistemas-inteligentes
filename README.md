@@ -29,7 +29,8 @@ Diseñar e implementar un servidor MCP que permita realizar operaciones CRUD y c
 - Consultar estadísticas generales del inventario
 
 ## Instalación
-
 ```bash
+pip install -r requirements.txt
+
 
 
