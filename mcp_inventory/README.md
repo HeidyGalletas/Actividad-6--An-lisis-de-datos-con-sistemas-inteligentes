@@ -98,18 +98,3 @@ Las pruebas realizan las siguientes acciones:
 | `producto_mas_costoso` | Identifica el producto con mayor precio unitario. |
 | `estadisticas_inventario` | Calcula total de productos, promedios y valor total. |
 
-## 8. Publicación en GitHub
-
-1. Crear un repositorio en GitHub.
-2. Inicializar Git en la carpeta del proyecto:
-
-```bash
-git init
-git add .
-git commit -m "Actividad 6 servidor MCP inventario"
-git branch -M main
-git remote add origin https://github.com/usuario/mcp_inventory.git
-git push -u origin main
-```
-
-3. Copiar el enlace del repositorio y anexarlo al informe técnico.
