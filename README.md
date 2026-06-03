@@ -1,4 +1,4 @@
-# Actividad-6--An-lisis-de-datos-con-sistemas-inteligentes
+# Actividad-6--Analisis-de-datos-con-sistemas-inteligentes
 
 # Sistema Cognitivo de Inventario con MCP y SQLite
 
